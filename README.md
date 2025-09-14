@@ -38,11 +38,16 @@ I am a Backend Developer with over two years of experience designing, building, 
 
 ### DevOps & Tooling
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="Ubuntu" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="Github Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/kibana/kibana-original.svg" width="40" height="40" alt="Kibana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/logstash/logstash-original.svg" width="40" height="40" alt="Logstash" />
 </p>
 
 ---
