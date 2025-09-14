@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a Backend Developer with over two years of experience in designing, building, and optimizing scalable web applications. Passionate about delivering clean, maintainable, and efficient solutions, I thrive in dynamic environments and excel at tackling complex technical challenges.
+I am a Backend Developer with over two years of experience designing, building, and optimizing scalable web applications. Passionate about delivering clean, maintainable, and efficient solutions, I thrive in dynamic environments and excel at tackling complex technical challenges.
 
 - **Expertise**: Building robust APIs and microservices with **NestJS**, **Express**, **Node.js**, and **TypeScript**.
 - **Databases**: Proficient in **PostgreSQL**, **MongoDB**, **Redis**, and ORM tools like **Prisma**.
@@ -21,27 +21,28 @@ I am a Backend Developer with over two years of experience in designing, buildin
 
 ### Backend Development
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
 </p>
 
 ### Databases & Caching
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" />
 </p>
 
 ### DevOps & Tooling
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
 </p>
 
 ---
@@ -49,6 +50,42 @@ I am a Backend Developer with over two years of experience in designing, buildin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DawnguardXI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawnguardXI&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
+  <a href="https://github.com/DawnguardXI">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=DawnguardXI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/DawnguardXI">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawnguardXI&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
+
+---
+
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/DawnguardXI/repo1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DawnguardXI&repo=repo1&theme=dracula&hide_border=true" alt="Repo1" />
+  </a>
+  <a href="https://github.com/DawnguardXI/repo2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DawnguardXI&repo=repo2&theme=dracula&hide_border=true" alt="Repo2" />
+  </a>
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/heydari-amirreza/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:heydari@amirreza.cv">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🤝 Let's Collaborate
+
+Interested in collaborating on exciting projects or have questions about my work? Feel free to reach out via [LinkedIn](https://linkedin.com/in/your-linkedin) or [email](mailto:your.email@example.com). I'm always open to contributing to innovative solutions and exploring new opportunities!
