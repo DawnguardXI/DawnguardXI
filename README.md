@@ -53,22 +53,6 @@ I am a Backend Developer with over two years of experience designing, building, 
   <a href="https://github.com/DawnguardXI">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=DawnguardXI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/DawnguardXI">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawnguardXI&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
----
-
-## 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/DawnguardXI/repo1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DawnguardXI&repo=repo1&theme=dracula&hide_border=true" alt="Repo1" />
-  </a>
-  <a href="https://github.com/DawnguardXI/repo2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DawnguardXI&repo=repo2&theme=dracula&hide_border=true" alt="Repo2" />
-  </a>
 </p>
 
 ---
@@ -76,11 +60,11 @@ I am a Backend Developer with over two years of experience designing, building, 
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/heydari-amirreza/" target="_blank">
+  <a href="https://linkedin.com/in/heydari-amirreza/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:heydari@amirreza.cv">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white" height="40" alt="Email" />
   </a>
 </p>
 
@@ -88,4 +72,4 @@ I am a Backend Developer with over two years of experience designing, building, 
 
 ## 🤝 Let's Collaborate
 
-Interested in collaborating on exciting projects or have questions about my work? Feel free to reach out via [LinkedIn](https://linkedin.com/in/your-linkedin) or [email](mailto:your.email@example.com). I'm always open to contributing to innovative solutions and exploring new opportunities!
+Interested in collaborating on exciting projects or have questions about my work? Feel free to reach out via [LinkedIn](https://linkedin.com/in/heydari-amirreza/) or [email](mailto:heydari@amirreza.cv). I'm always open to contributing to innovative solutions and exploring new opportunities!
