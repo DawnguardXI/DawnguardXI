@@ -64,7 +64,7 @@ I am a Backend Developer with over two years of experience designing, building, 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:heydari@amirreza.cv">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white" height="40" alt="Email" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/email/email-original.svg" width="40" height="40" alt="Email" />
   </a>
 </p>
 
