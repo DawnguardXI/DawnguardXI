@@ -46,8 +46,8 @@ I am a Backend Developer with over two years of experience designing, building, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="Ubuntu" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/kibana/kibana-original.svg" width="40" height="40" alt="Kibana" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/logstash/logstash-original.svg" width="40" height="40" alt="Logstash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/kibana/kibana-original.svg" width="40" height="40" alt="Kibana" />
 </p>
 
 ---
@@ -67,9 +67,6 @@ I am a Backend Developer with over two years of experience designing, building, 
 <p align="center">
   <a href="https://linkedin.com/in/heydari-amirreza/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:heydari@amirreza.cv">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/email/email-original.svg" width="40" height="40" alt="Email" />
   </a>
 </p>
 
