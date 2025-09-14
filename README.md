@@ -49,6 +49,6 @@ I am a Backend Developer with over two years of experience in designing, buildin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/DawnguardXI?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=UTC" height="180" alt="GitHub Metrics" />
-  <img src="https://metrics.lecoq.io/DawnguardXI?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DawnguardXI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawnguardXI&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
 </p>
