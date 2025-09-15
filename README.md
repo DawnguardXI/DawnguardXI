@@ -56,10 +56,10 @@ I am a Backend Developer with over two years of experience designing, building, 
 
 <p align="center">
   <a href="https://github.com/DawnguardXI">
-    <img height="180" align="center" src="https://github-readme-stats-dawnguardxi.vercel.app/api?username=DawnguardXI&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img height="180" align="center" src="https://github-readme-stats-six-mu-26.vercel.app/api?username=DawnguardXI&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/DawnguardXI">
-    <img height="180" align="center" src="https://github-readme-stats-dawnguardxi.vercel.app/api/top-langs/?username=DawnguardXI&layout=compact&langs_count=8&show_icons=true&theme=yeblu&hide_border=true" alt="Most Used Languages" />
+    <img height="180" align="center" src="https://github-readme-stats-six-mu-26.vercel.app/api/top-langs/?username=DawnguardXI&layout=compact&langs_count=8&show_icons=true&theme=yeblu&hide_border=true" alt="Most Used Languages" />
   </a>
 </p>
 
